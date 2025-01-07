@@ -1,7 +1,7 @@
 # Samsung RISC-V Project
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/1.png" alt="RISC-V Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/vsd_risc1.png" alt="RISC-V Logo" width="200"/>
   <br>
   <img src="https://img.shields.io/github/license/MONISHKV/samsung-riscv" alt="License"/>
   <img src="https://img.shields.io/github/stars/MONISHKV/samsung-riscv" alt="Stars"/>
@@ -12,13 +12,13 @@
 This repository contains RISC-V implementation and development resources focused on Samsung's RISC-V initiatives. RISC-V is an open standard instruction set architecture (ISA) based on established reduced instruction set computer (RISC) principles.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/2.png" alt="RISC-V Architecture Overview" width="600"/>
+  <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/vsd_risc2.png" alt="RISC-V Architecture Overview" width="600"/>
 </div>
 
 ## Features
 - RISC-V core implementation with support for:
   <div align="center">
-    <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/3.png" alt="Core Features" width="400"/>
+    <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/vsd_risc3.png" alt="Core Features" width="400"/>
   </div>
   - 32-bit and 64-bit support
   - Multiple privilege levels
@@ -91,12 +91,12 @@ samsung-riscv/
 
 ## Implementation Details
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/4.png" alt="Implementation Details" width="600"/>
+  <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/vsd_risc4.png" alt="Implementation Details" width="600"/>
 </div>
 
 ## Development Workflow
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/5.png" alt="Development Workflow" width="800"/>
+  <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/vsd_risc5.png" alt="Development Workflow" width="800"/>
 </div>
 
 ## Contributing
