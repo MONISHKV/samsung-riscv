@@ -1,7 +1,7 @@
 # Samsung RISC-V Project
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/vsd_risc1.png" alt="RISC-V Logo" width="200"/>
+  <img src="images/vsd_risc1.png" alt="RISC-V Logo" width="200"/>
   <br>
   <img src="https://img.shields.io/github/license/MONISHKV/samsung-riscv" alt="License"/>
   <img src="https://img.shields.io/github/stars/MONISHKV/samsung-riscv" alt="Stars"/>
@@ -12,13 +12,13 @@
 This repository contains RISC-V implementation and development resources focused on Samsung's RISC-V initiatives. RISC-V is an open standard instruction set architecture (ISA) based on established reduced instruction set computer (RISC) principles.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/vsd_risc2.png" alt="RISC-V Architecture Overview" width="600"/>
+  <img src="images/vsd_risc2.png" alt="RISC-V Architecture Overview" width="600"/>
 </div>
 
 ## Features
 - RISC-V core implementation with support for:
   <div align="center">
-    <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/vsd_risc3.png" alt="Core Features" width="400"/>
+    <img src="images/vsd_risc3.png" alt="Core Features" width="400"/>
   </div>
   - 32-bit and 64-bit support
   - Multiple privilege levels
@@ -91,34 +91,42 @@ samsung-riscv/
 
 ## Implementation Details
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/vsd_risc4.png" alt="Implementation Details" width="600"/>
+  <img src="images/vsd_risc4.png" alt="Implementation Details" width="600"/>
 </div>
 
 ## Development Workflow
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MONISHKV/samsung-riscv/main/images/vsd_risc5.png" alt="Development Workflow" width="800"/>
+  <img src="images/vsd_risc5.png" alt="Development Workflow" width="800"/>
 </div>
 
+## Tasks Progress
+### ✅ Task 1: Initial Setup and Core Implementation
+- Completed basic RISC-V core setup
+- Implemented fundamental architecture components
+- Verified basic functionality
+
+### 🔄 Upcoming Tasks
+- Task 2: [Future Implementation]
+- Task 3: [Future Implementation]
+- Task 4: [Future Implementation]
+- Task 5: [Future Implementation]
+- Task 6: [Future Implementation]
+
 ## Contributing
-We welcome contributions! Please follow these steps:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-- Maintainer: Monish KV
-- GitHub: [@MONISHKV](https://github.com/MONISHKV)
-- Project Link: [https://github.com/MONISHKV/samsung-riscv](https://github.com/MONISHKV/samsung-riscv)
-
 ## Acknowledgments
-- RISC-V Foundation
-- Samsung Electronics
-- Open-source community
+- Samsung Electronics for the initiative
+- RISC-V International for the ISA specification
 - All contributors to this project
 
-Last Updated: January 7, 2025
+## Contact
+For any queries or suggestions, please open an issue in the GitHub repository.
+
+---
+<div align="center">
+  <sub>Built with ❤️ for Samsung RISC-V Project</sub>
+</div>
