@@ -140,7 +140,7 @@ spike pk sum.o
    ```
    riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o sum.o sum.c
    ```
-   <div align="center">
+ <div align="center">
   <img src="images/vsd_risc7.png" alt="Implementation Details" width="600"/>
 </div>
 
@@ -153,7 +153,7 @@ spike pk sum.o
    ```
    riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o sum.o sum.c
    ```
-    <div align="center">
+ <div align="center">
   <img src="images/vsd_risc7.png" alt="Implementation Details" width="600"/>
 </div>
 
