@@ -132,25 +132,25 @@ We have to do the same compilation of our code but this time using RISCV gcc com
 spike pk sum.o
 ```  
 ### Spike Simulation:
-<p align="center">
-  <img width="800" height="500" src="images/vsd_risc6.png">
-</p> 
+<div align="center">
+  <img src="images/vsd_risc6.png" alt="Implementation Details" width="600"/>
+</div>
 
 2. Using the **cat** command, the entire C code will be displayed on the terminal. Now run the following command to compile the code in riscv64 gcc compiler:  
    ```
    riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o sum.o sum.c
    ```
-   <p align="center">
-  <img width="800" height="500" src="images/vsd_risc7.png">
-</p>
+   <div align="center">
+  <img src="images/vsd_risc7.png" alt="Implementation Details" width="600"/>
+</div>
 
 3. Open a new terminal and run the given command:    
    ```
    riscv64-unknown-elf-objdump -d sum.o
    ```
- <p align="center">
-  <img width="800" height="500" src="images/vsd_risc8.png">
-</p>
+ <div align="center">
+  <img src="images/vsd_risc7.png" alt="Implementation Details" width="600"/>
+</div>
   
 4. Open the previous tab and run the following command to compile the code in riscv64 gcc compiler:  
    ```
