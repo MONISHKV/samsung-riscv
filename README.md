@@ -154,7 +154,7 @@ spike pk sum.o
    riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o sum.o sum.c
    ```
  <div align="center">
-  <img src="images/vsd_risc7.png" alt="Implementation Details" width="600"/>
+  <img src="images/vsd_risc8.png" alt="Implementation Details" width="600"/>
 </div>
 
 5. Open a new terminal and run the given command:    
